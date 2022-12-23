@@ -1,2 +1,2 @@
 # BetaHelixDesign
-Program for remodeling and design of  tau beta-helix protein scaffold
+Program for remodeling and design of tau beta-helix protein scaffold using PyRosetta.
